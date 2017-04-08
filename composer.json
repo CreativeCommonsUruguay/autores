@@ -1,0 +1,22 @@
+{
+    "name": "drupal/autores",
+    "description": "Perfil de instalacion del sitio autores.uy",
+    "type": "drupal-profile",
+    "homepage": "https://github.com/CreativeCommonsUruguay/autores",
+    "license": "GPL",
+    "authors": [
+    {
+          "name": "Marco",
+          "email": "marcoscalone@gmail.com",
+          "role": "Maintainer"
+      }
+    ],
+    "support": {
+       "issues": "https://github.com/CreativeCommonsUruguay/autores/issues",
+       "source": "https://github.com/CreativeCommonsUruguay/autores"
+     },
+     "minimum-stability": "dev",
+     "require": {
+       "drupal/field_group": "*"
+     }
+}
