@@ -1,7 +1,7 @@
 {
     "name": "drupal/autores",
     "description": "Perfil de instalacion del sitio autores.uy",
-    "type": "drupal-profile",
+    "type": "drupal-custom-profile",
     "homepage": "https://github.com/CreativeCommonsUruguay/autores",
     "license": "GPL",
     "authors": [
